@@ -66,29 +66,6 @@ fun_fact: I am building a GPT from the ground up using NeetCode's ML course! �
 
 ---
 
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/NaveenGadugina678/neetcode-gpt">
-  <h6>neetcode-gpt</h6>
-</a>
-&nbsp;
-<a href="https://github.com/NaveenGadugina678/Stock-Price-Direction-Predictor">
-  <h6>Stock-Price-Direction-Predictor</h6>
-</a>
-
-<a href="https://github.com/NaveenGadugina678/Ping-Pong">
-  <h6>Ping-Pong</h6>
-</a>
-&nbsp;
-<a href="https://github.com/NaveenGadugina678/Space-Invaders">
-  <h6>Space Invaders</h6>
-
-</div>
-
----
-
 ## 📫 &nbsp;Let's Connect!
 
 <div align="center">
