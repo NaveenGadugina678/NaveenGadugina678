@@ -14,18 +14,15 @@
 
 ```yaml
 name: Clypse
-role: Undergrad Student & Aspiring AI/ML Engineer
+role: Undergrad Student
 location: Building cool stuff from my desk 🖥️
 status: 😼 On vacation (but still coding)
 interests:
   - 🤖 Artificial Intelligence & Machine Learning
   - 🎮 Game Development (C++ / Raylib)
-  - 🧩 Competitive Programming & DSA
+  - 🧩 DSA
   - 🌐 Web Development
-currently_learning:
-  - Deep Learning & Transformers
-  - Building GPTs from scratch
-fun_fact: I built a GPT from the ground up using NeetCode's ML course! 🧠
+fun_fact: I am building a GPT from the ground up using NeetCode's ML course! 🧠
 ```
 
 ---
@@ -63,7 +60,6 @@ fun_fact: I built a GPT from the ground up using NeetCode's ML course! 🧠
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 </div>
@@ -75,68 +71,19 @@ fun_fact: I built a GPT from the ground up using NeetCode's ML course! 🧠
 <div align="center">
 
 <a href="https://github.com/NaveenGadugina678/neetcode-gpt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaveenGadugina678&repo=neetcode-gpt&theme=github_dark&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="neetcode-gpt" />
+  <h6>neetcode-gpt</h6>
 </a>
 &nbsp;
 <a href="https://github.com/NaveenGadugina678/Stock-Price-Direction-Predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaveenGadugina678&repo=Stock-Price-Direction-Predictor&theme=github_dark&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="Stock-Price-Direction-Predictor" />
+  <h6>Stock-Price-Direction-Predictor</h6>
 </a>
 
 <a href="https://github.com/NaveenGadugina678/Ping-Pong">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaveenGadugina678&repo=Ping-Pong&theme=github_dark&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="Ping-Pong" />
+  <h6>Ping-Pong</h6>
 </a>
 &nbsp;
 <a href="https://github.com/NaveenGadugina678/Space-Invaders">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaveenGadugina678&repo=Space-Invaders&theme=github_dark&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" alt="Space-Invaders" />
-</a>
-
-</div>
-
----
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaveenGadugina678&show_icons=true&theme=github_dark&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenGadugina678&layout=compact&theme=github_dark&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenGadugina678&theme=github-dark-blue&border=6e40c9&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff6f00&currStreakLabel=6e40c9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenGadugina678&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" alt="Activity Graph" width="95%" />
-
-</div>
-
----
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NaveenGadugina678&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies" />
-
-</div>
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaveenGadugina678/NaveenGadugina678/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaveenGadugina678/NaveenGadugina678/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NaveenGadugina678/NaveenGadugina678/output/github-snake-dark.svg" />
-</picture>
-
-> 💡 *Set up [snk](https://github.com/Platane/snk) GitHub Action to generate the snake animation automatically!*
+  <h6>Space Invaders</h6>
 
 </div>
 
