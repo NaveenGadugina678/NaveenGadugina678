@@ -13,16 +13,15 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
 ```yaml
-name: Clypse
-role: Undergrad Student
-location: Building cool stuff from my desk 🖥️
-status: 😼 On vacation (but still coding)
+Name: Naveen Gadugina
+Role: Undergrad Student
+Location: India
+Status: 😼 On vacation (but still trying to code)
 interests:
   - 🤖 Artificial Intelligence & Machine Learning
   - 🎮 Game Development (C++ / Raylib)
   - 🧩 DSA
   - 🌐 Web Development
-fun_fact: I am building a GPT from the ground up using NeetCode's ML course! 🧠
 ```
 
 ---
