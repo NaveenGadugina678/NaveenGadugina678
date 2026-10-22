@@ -61,8 +61,8 @@ interests:
   <img src="https://img.shields.io/badge/GitHub-NaveenGadugina678-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
-<a href="https://linkedin.com/naveen-gadugina">
-  <img src="https://img.shields.io/badge/LinkedIn-Naveen Gadugina-181717?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<a href="https://linkedin.com/in/naveen-gadugina">
+  <img src="https://img.shields.io/badge/LinkedIn-Naveen Gadugina-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 <br/><br/>
