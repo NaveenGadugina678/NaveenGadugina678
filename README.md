@@ -1,15 +1,3 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Hey%20there!%20I'm%20Clypse%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20think,%20play,%20and%20learn&descSize=18&descAlignY=55&descAlign=50" width="100%" />
-
-<!-- College Student Badge -->
-<img src="https://img.shields.io/badge/🎓_College_Student-6e40c9?style=for-the-badge&labelColor=0d1117" alt="College Student" />
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
 ```yaml
@@ -73,12 +61,12 @@ interests:
   <img src="https://img.shields.io/badge/GitHub-NaveenGadugina678-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
+<a href="https://linkedin.com/naveen-gadugina">
+  <img src="https://img.shields.io/badge/LinkedIn-Naveen Gadugina-181717?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+
 <br/><br/>
 
 > *"The only way to do great work is to love what you do."* — Steve Jobs
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
-
-</div>
