@@ -62,7 +62,7 @@ interests:
 </a>
 
 <a href="https://linkedin.com/in/naveen-gadugina">
-  <img src="https://img.shields.io/badge/LinkedIn-Naveen Gadugina-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Naveen_Gadugina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br/><br/>
